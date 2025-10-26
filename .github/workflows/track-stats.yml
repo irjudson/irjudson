@@ -1,0 +1,34 @@
+name: Track Profile Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Every Sunday at midnight
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Get GitHub Stats
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          FOLLOWERS=$(curl -s https://api.github.com/users/irjudson | jq '.followers')
+          REPOS=$(curl -s https://api.github.com/users/irjudson | jq '.public_repos')
+
+          # Create CSV if it doesn't exist
+          if [ ! -f stats-log.csv ]; then
+            echo "Date,Followers,Public Repos" > stats-log.csv
+          fi
+
+          echo "$DATE,$FOLLOWERS,$REPOS" >> stats-log.csv
+
+      - name: Commit Stats
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add stats-log.csv
+          git commit -m "📊 Update stats - $(date +%Y-%m-%d)" || exit 0
+          git push
