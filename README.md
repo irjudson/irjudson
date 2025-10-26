@@ -83,17 +83,32 @@ Distinguished Solution Architect with extensive experience in cloud platforms, d
 
 <div align="center">
 
-<!-- PROJECT 1 -->
+<table>
+<tr>
+<td width="50%">
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=irjudson&repo=github-profile-upgrade&theme=tokyonight)](https://github.com/irjudson/github-profile-upgrade)
 
-<!-- PROJECT 2 -->
+</td>
+<td width="50%">
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=irjudson&repo=vam-tools&theme=tokyonight)](https://github.com/irjudson/vam-tools)
 
-<!-- PROJECT 3 -->
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=irjudson&repo=astro&theme=tokyonight)](https://github.com/irjudson/astro)
 
-<!-- PROJECT 4 -->
+</td>
+<td width="50%">
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harperfast&repo=harper&theme=tokyonight)](https://github.com/harperfast/harper)
+
+</td>
+</tr>
+</table>
 
 </div>
 
