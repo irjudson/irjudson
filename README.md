@@ -92,7 +92,7 @@ Distinguished Solution Architect with extensive experience in cloud platforms, d
 </td>
 <td width="50%">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=irjudson&repo=vam-tools&theme=tokyonight)](https://github.com/irjudson/vam-tools)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=irjudson&repo=vam-tools&theme=tokyonight&t=20251026)](https://github.com/irjudson/vam-tools)
 
 </td>
 </tr>
