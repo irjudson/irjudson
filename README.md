@@ -89,6 +89,12 @@ Distinguished Solution Architect with extensive experience in cloud platforms, d
 <!-- PROJECT 2 -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=irjudson&repo=vam-tools&theme=tokyonight)](https://github.com/irjudson/vam-tools)
 
+<!-- PROJECT 3 -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=irjudson&repo=astro&theme=tokyonight)](https://github.com/irjudson/astro)
+
+<!-- PROJECT 4 -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harperfast&repo=harper&theme=tokyonight)](https://github.com/harperfast/harper)
+
 </div>
 
 ---
