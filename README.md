@@ -8,9 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/irjudson)
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.irjudson.org/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/irjudson.bsky.social)
-
-<!-- VISITOR COUNTER -->
-![Visitor Count](https://profile-counter.glitch.me/irjudson/count.svg)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irjudson)
 
 </div>
 
@@ -133,14 +131,14 @@ gantt
     title Professional Journey
     dateFormat  YYYY-MM
     section Harper
-    Distinguished Solution Architect    :2024-01, 2025-10
+    Distinguished Solution Architect    :2025-01, 2025-10
     section Microsoft
-    Director Strategy & Planning        :2020-01, 2023-12
-    Azure Experiences & Ecosystems      :2020-01, 2023-12
+    Director Strategy & Planning        :2014-01, 2024-12
+    Azure Experiences & Ecosystems      :2014-01, 2024-12
 ```
 
 ### 🏢 Distinguished Solution Architect @ Harper
-**📅 2024 - Present** | **📍 Remote**
+**📅 2025 - Present** | **📍 Remote**
 
 Building innovative solutions and architecting scalable systems.
 
@@ -149,7 +147,7 @@ Building innovative solutions and architecting scalable systems.
 ---
 
 ### 🏢 Director, Strategy & Planning @ Microsoft
-**📅 2020 - 2023** | **📍 Azure Experiences & Ecosystems**
+**📅 2014 - 2024** | **📍 Azure Experiences & Ecosystems**
 
 Led strategic initiatives for Azure developer experiences and ecosystem growth.
 
@@ -169,42 +167,8 @@ Led strategic initiatives for Azure developer experiences and ecosystem growth.
 
 ---
 
-## 📫 How to Reach Me
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irjudson)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/irjudson)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.irjudson.org/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/irjudson.bsky.social)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irjudson)
-
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-![Snake animation](https://github.com/irjudson/irjudson/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😄 Random Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
 
 ⭐️ From [irjudson](https://github.com/irjudson) | Three Forks, Montana 🏔️
-
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
 </div>
