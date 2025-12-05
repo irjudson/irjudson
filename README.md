@@ -10,6 +10,10 @@
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/irjudson.bsky.social)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irjudson)
 
+---
+
+> *"When every human finds a way to thrive doing what aligns their passion and talent, we have all won."*
+
 </div>
 
 ---
@@ -71,9 +75,9 @@ Distinguished Solution Architect with extensive experience in cloud platforms, d
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irjudson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=irjudson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irjudson&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=irjudson&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -87,24 +91,24 @@ Distinguished Solution Architect with extensive experience in cloud platforms, d
 <tr>
 <td width="50%">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=irjudson&repo=github-profile-upgrade&theme=tokyonight)](https://github.com/irjudson/github-profile-upgrade)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=irjudson&repo=github-profile-upgrade&theme=tokyonight)](https://github.com/irjudson/github-profile-upgrade)
 
 </td>
 <td width="50%">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=irjudson&repo=vam-tools&theme=tokyonight&t=20251026)](https://github.com/irjudson/vam-tools)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=irjudson&repo=vam-tools&theme=tokyonight)](https://github.com/irjudson/vam-tools)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=irjudson&repo=astro&theme=tokyonight)](https://github.com/irjudson/astro)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=irjudson&repo=astro&theme=tokyonight)](https://github.com/irjudson/astro)
 
 </td>
 <td width="50%">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harperfast&repo=harper&theme=tokyonight)](https://github.com/harperfast/harper)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=harperfast&repo=harper&theme=tokyonight)](https://github.com/harperfast/harper)
 
 </td>
 </tr>
