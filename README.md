@@ -20,7 +20,7 @@
 
 ## About Me
 
-Founder of **Buffalo Jump Forge**, an AI + hardware practice based in Three Forks, Montana. After 11 years at Microsoft (most recently Director of Strategy & Planning for Microsoft Learn and Azure Portal) and a year as Distinguished Solution Architect at Harper, I've turned my attention to the intersection of two things I love most: applied AI systems and custom electronics — agents, firmware, PCBs, and the glue that ties them together.
+Founder of **Buffalo Jump Forge**, an AI + hardware practice based in Three Forks, Montana. After 11 years at Microsoft (most recently Director of Strategy & Planning for Microsoft Learn and Azure Portal) and then a Distinguished Solution Architect at Harper, I've turned my attention to the intersection of two things I love most: applied AI systems and custom electronics — agents, firmware, PCBs, and the glue that ties them together.
 
 **Expertise:**
 - **AI Systems & Agents** — Multi-model orchestration, LLM tool use, retrieval, local-first AI (Claude, Gemini, Ollama)
