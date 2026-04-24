@@ -138,12 +138,12 @@ Built on Python, Claude Code CLI, Ollama (DeepSeek-R1), ChromaDB, Twilio, and a 
 <tr>
 <td width="50%">
 
-[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=irjudson&repo=astro&theme=tokyonight)](https://github.com/irjudson/astro)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=irjudson&repo=seestar-api&theme=tokyonight)](https://github.com/irjudson/seestar-api)
 
 </td>
 <td width="50%">
 
-[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=irjudson&repo=github-profile-upgrade&theme=tokyonight)](https://github.com/irjudson/github-profile-upgrade)
+[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=irjudson&repo=lumina&theme=tokyonight)](https://github.com/irjudson/lumina)
 
 </td>
 </tr>
