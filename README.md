@@ -155,18 +155,11 @@ Built on Python, Claude Code CLI, Ollama (DeepSeek-R1), ChromaDB, Twilio, and a 
 
 ## Professional Experience
 
-```mermaid
-gantt
-    title Professional Journey
-    dateFormat  YYYY-MM
-    section Buffalo Jump Forge
-    Founder                             :active, 2026-02, 2026-12
-    section Harper
-    Distinguished Solution Architect    :2025-01, 2026-02
-    section Microsoft
-    Director Strategy & Planning        :2022-01, 2024-12
-    Various Roles                       :2014-01, 2021-12
-```
+<div align="center">
+
+<img src="cards/story-arc.svg" alt="Story arc: Microsoft → Harper → Buffalo Jump Forge" width="820"/>
+
+</div>
 
 ### Founder @ Buffalo Jump Forge
 **2026 - Present**

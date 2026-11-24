@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="230" viewBox="0 0 820 230" role="img" aria-label="Story arc: Microsoft, then Harper, then Buffalo Jump Forge">
+<style>text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;text-anchor:middle} .n{font-size:17px;font-weight:600;fill:#70a5fd} .d{font-size:13px;fill:#a9b1d6} .y{font-size:12px;fill:#bf91f3}</style>
+<rect x="0.5" y="0.5" rx="4.5" width="819" height="229" fill="#1a1b27" stroke="#2f3346"/>
+<path d="M140 175 Q 420 120 680 50" fill="none" stroke="#2f3346" stroke-width="4" stroke-linecap="round"/>
+<path d="M140 175 Q 420 120 680 50" fill="none" stroke="#bf91f3" stroke-width="2" stroke-dasharray="2 8" stroke-linecap="round"/>
+<circle cx="140" cy="175" r="9" fill="#1a1b27" stroke="#70a5fd" stroke-width="3"/>
+<circle cx="415" cy="116" r="9" fill="#1a1b27" stroke="#70a5fd" stroke-width="3"/>
+<circle cx="680" cy="50" r="11" fill="#70a5fd"/>
+<text x="140" y="155" class="y">2014 – 2024</text>
+<text x="140" y="200" class="n">Microsoft</text>
+<text x="140" y="218" class="d">Scaling developer platforms</text>
+<text x="415" y="96" class="y">2025 – 2026</text>
+<text x="415" y="146" class="n">Harper</text>
+<text x="415" y="164" class="d">Architecting cloud-native systems</text>
+<text x="680" y="28" class="y">2026 – now</text>
+<text x="680" y="94" class="n">Buffalo Jump Forge</text>
+<text x="680" y="112" class="d">AI + hardware, end to end</text>
+</svg>
