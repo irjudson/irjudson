@@ -110,9 +110,9 @@ Built on Python, Claude Code CLI, Ollama (DeepSeek-R1), ChromaDB, Twilio, and a 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=irjudson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="cards/stats.svg" alt="GitHub stats"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=irjudson&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="cards/top-langs.svg" alt="Top languages"/>
 
 </div>
 
@@ -126,24 +126,24 @@ Built on Python, Claude Code CLI, Ollama (DeepSeek-R1), ChromaDB, Twilio, and a 
 <tr>
 <td width="50%">
 
-[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=irjudson&repo=seestar&theme=tokyonight)](https://github.com/irjudson/seestar)
+[![ReadMe Card](cards/pin-seestar.svg)](https://github.com/irjudson/seestar)
 
 </td>
 <td width="50%">
 
-[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=irjudson&repo=astronomus&theme=tokyonight)](https://github.com/irjudson/astronomus)
+[![ReadMe Card](cards/pin-astronomus.svg)](https://github.com/irjudson/astronomus)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=irjudson&repo=seestar-api&theme=tokyonight)](https://github.com/irjudson/seestar-api)
+[![ReadMe Card](cards/pin-seestar-api.svg)](https://github.com/irjudson/seestar-api)
 
 </td>
 <td width="50%">
 
-[![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=irjudson&repo=lumina&theme=tokyonight)](https://github.com/irjudson/lumina)
+[![ReadMe Card](cards/pin-lumina.svg)](https://github.com/irjudson/lumina)
 
 </td>
 </tr>
@@ -160,7 +160,7 @@ gantt
     title Professional Journey
     dateFormat  YYYY-MM
     section Buffalo Jump Forge
-    Founder                             :2026-02, 2026-05
+    Founder                             :active, 2026-02, 2026-12
     section Harper
     Distinguished Solution Architect    :2025-01, 2026-02
     section Microsoft

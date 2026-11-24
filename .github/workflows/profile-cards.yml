@@ -1,0 +1,38 @@
+name: Profile Cards
+
+on:
+  schedule:
+    - cron: '17 6 * * *'  # Daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/gen_cards.py', '.github/workflows/profile-cards.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate cards
+        env:
+          # Optional PROFILE_TOKEN (classic PAT, repo scope) includes private repos; falls back to public only.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python scripts/gen_cards.py irjudson seestar astronomus seestar-api lumina
+
+      - name: Commit cards
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add cards
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh profile cards"
+          git pull --rebase
+          git push

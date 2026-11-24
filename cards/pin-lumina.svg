@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="140" viewBox="0 0 400 140" role="img" aria-label="lumina">
+<style>text{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif} .t{font-size:18px;font-weight:600;fill:#70a5fd} .l{font-size:14px;fill:#a9b1d6} .v{font-size:14px;font-weight:700;fill:#a9b1d6} .s{font-size:12px;fill:#a9b1d6}</style>
+<rect x="0.5" y="0.5" rx="4.5" width="399" height="139" fill="#1a1b27" stroke="#2f3346"/>
+<text x="25" y="35" class="t">lumina</text>
+<text x="25" y="62" class="s">Photo and video library manager with AI-powered</text><text x="25" y="82" class="s">classification, deduplication, and organization.</text><circle cx="31" cy="116" r="6" fill="#3572A5"/><text x="43" y="120" class="s">Python</text><text x="97" y="120" class="s">★ 0</text><text x="152" y="120" class="s">⑂ 0</text>
+</svg>
