@@ -157,7 +157,7 @@ Built on Python, Claude Code CLI, Ollama (DeepSeek-R1), ChromaDB, Twilio, and a 
 
 <div align="center">
 
-<img src="cards/story-arc.svg" alt="Story arc: Microsoft → Harper → Buffalo Jump Forge" width="820"/>
+<img src="cards/story-arc.svg" alt="Story arc: early career → Argonne → Montana → Microsoft → Harper → Buffalo Jump Forge" width="100%"/>
 
 </div>
 

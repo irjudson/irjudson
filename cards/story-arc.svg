@@ -1,18 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="230" viewBox="0 0 820 230" role="img" aria-label="Story arc: Microsoft, then Harper, then Buffalo Jump Forge">
-<style>text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;text-anchor:middle} .n{font-size:17px;font-weight:600;fill:#70a5fd} .d{font-size:13px;fill:#a9b1d6} .y{font-size:12px;fill:#bf91f3}</style>
-<rect x="0.5" y="0.5" rx="4.5" width="819" height="229" fill="#1a1b27" stroke="#2f3346"/>
-<path d="M140 175 Q 420 120 680 50" fill="none" stroke="#2f3346" stroke-width="4" stroke-linecap="round"/>
-<path d="M140 175 Q 420 120 680 50" fill="none" stroke="#bf91f3" stroke-width="2" stroke-dasharray="2 8" stroke-linecap="round"/>
-<circle cx="140" cy="175" r="9" fill="#1a1b27" stroke="#70a5fd" stroke-width="3"/>
-<circle cx="415" cy="116" r="9" fill="#1a1b27" stroke="#70a5fd" stroke-width="3"/>
-<circle cx="680" cy="50" r="11" fill="#70a5fd"/>
-<text x="140" y="155" class="y">2014 – 2024</text>
-<text x="140" y="200" class="n">Microsoft</text>
-<text x="140" y="218" class="d">Scaling developer platforms</text>
-<text x="415" y="96" class="y">2025 – 2026</text>
-<text x="415" y="146" class="n">Harper</text>
-<text x="415" y="164" class="d">Architecting cloud-native systems</text>
-<text x="680" y="28" class="y">2026 – now</text>
-<text x="680" y="94" class="n">Buffalo Jump Forge</text>
-<text x="680" y="112" class="d">AI + hardware, end to end</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="310" viewBox="0 0 1060 310" role="img" aria-label="Story arc: early career at MIT, Thinking Machines and MITRE; Argonne; Montana; Microsoft; Harper; Buffalo Jump Forge">
+<style>text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif;text-anchor:middle} .n{font-size:17px;font-weight:600;fill:#70a5fd} .d{font-size:12px;fill:#a9b1d6} .y{font-size:12px;fill:#bf91f3}</style>
+<rect x="0.5" y="0.5" rx="4.5" width="1059" height="309" fill="#1a1b27" stroke="#2f3346"/>
+<path d="M20,280 L190,280 L190,246 L360,246 L360,212 L530,212 L530,178 L700,178 L700,144 L870,144 L870,110 L1040,110" fill="none" stroke="#2f3346" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M20,280 L190,280 L190,246 L360,246 L360,212 L530,212 L530,178 L700,178 L700,144 L870,144 L870,110 L1040,110" fill="none" stroke="#bf91f3" stroke-width="2" stroke-dasharray="2 8" stroke-linecap="round"/>
+<circle cx="105.0" cy="280" r="6" fill="#1a1b27" stroke="#70a5fd" stroke-width="3"/><text x="105.0" y="210" class="y">1990 – 1995</text><text x="105.0" y="230" class="n">Early career</text><text x="105.0" y="247" class="d">MIT LCS · Thinking Machines</text><text x="105.0" y="263" class="d">MITRE</text><circle cx="275.0" cy="246" r="6" fill="#1a1b27" stroke="#70a5fd" stroke-width="3"/><text x="275.0" y="176" class="y">1995 – 2007</text><text x="275.0" y="196" class="n">Argonne</text><text x="275.0" y="213" class="d">Access Grid</text><text x="275.0" y="229" class="d">R&amp;D 100 Award</text><circle cx="445.0" cy="212" r="6" fill="#1a1b27" stroke="#70a5fd" stroke-width="3"/><text x="445.0" y="142" class="y">2007 – 2013</text><text x="445.0" y="162" class="n">Montana</text><text x="445.0" y="179" class="d">MSU research computing</text><text x="445.0" y="195" class="d">Workiva · Ph.D.</text><circle cx="615.0" cy="178" r="6" fill="#1a1b27" stroke="#70a5fd" stroke-width="3"/><text x="615.0" y="108" class="y">2013 – 2025</text><text x="615.0" y="128" class="n">Microsoft</text><text x="615.0" y="145" class="d">CodaLab · Azure IoT</text><text x="615.0" y="161" class="d">Microsoft Learn</text><circle cx="785.0" cy="144" r="6" fill="#1a1b27" stroke="#70a5fd" stroke-width="3"/><text x="785.0" y="74" class="y">2025</text><text x="785.0" y="94" class="n">Harper</text><text x="785.0" y="111" class="d">Distinguished</text><text x="785.0" y="127" class="d">Solution Architect</text><circle cx="955.0" cy="110" r="8" fill="#70a5fd" stroke="#70a5fd" stroke-width="3"/><text x="955.0" y="40" class="y">2026 – now</text><text x="955.0" y="60" class="n">Buffalo Jump Forge</text><text x="955.0" y="77" class="d">AI + hardware,</text><text x="955.0" y="93" class="d">end to end</text>
 </svg>
