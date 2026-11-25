@@ -39,23 +39,25 @@ Founder of **Buffalo Jump Forge**, an AI + hardware practice based in Three Fork
 
 > **Memory-Indexed Reflective Reasoning and Orchestration Runtime**
 >
-> A local-first AI supervisor that routes between Claude, Gemini, and Ollama — injecting your personal principles and project context into every conversation. Always available: web chat UI, WhatsApp notifications, and desktop alerts, all from a persistent daemon on your own machine.
+> A local-first AI supervisor running as a persistent daemon on my own hardware. It carries my principles, projects, and history into every conversation — and decides what is allowed to leave the machine.
 
-**What makes it interesting:**
-- **4-stage agentic pipeline** — Gather (tool-capable model) → Synthesize (local reasoning) → Plan (risk-tiered actions) → Execute (with human-in-the-loop on irreversible changes)
-- **Privacy gate** — personal data is hard-blocked from cloud backends; routing is driven by privacy class, trust tier, capability, and cost
-- **Semantic memory** — conversation history and project context stored as plain markdown, indexed with ChromaDB for fuzzy recall
-- **Trust tiers** — models earn autonomy through demonstrated reliability, promoted automatically via nightly reflection
-- **Live tool use** — git, GitHub, docker, filesystem ops injected as context before the model responds
+**Where it is now:**
+- **Own inference stack** — a local AI gateway (vLLM + LiteLLM + Postgres) serves Qwen3-8B on my GPU; cloud models (Claude, Gemini) are called only when policy allows
+- **Hermes as the front door** — chat and Telegram run through the Hermes agent harness, with Memento plugged in as its memory provider and MCP tool server
+- **Privacy + export control** — personal data never leaves the box; an export-control class fails closed on every third-party path (Telegram, SMS, Claude, Gemini)
+- **Reviewed memory** — nightly reflection *proposes* memories; nothing reaches a prompt until I approve it
+- **Risk-tiered actions** — plans are tagged read/modify/irreversible, and anything destructive waits for a human
+- **Honest evals** — a nightly blind-judged A/B harness scores the local model against cloud reference answers, so "local-first" is measured, not assumed
+- **Egress safety tests** — the agent's network reach is tested and locked down before any upgrade ships
 
-Built on Python, Claude Code CLI, Ollama (DeepSeek-R1), ChromaDB, Twilio, and a lot of opinionated routing. *Private while under active development.*
+Built on Python, FastAPI, vLLM, LiteLLM, Postgres, ChromaDB, Hermes, and Claude Code. *Private while under active development.*
 
 ---
 
 ## Current Work
 
 **What I'm building at Buffalo Jump Forge:**
-- **Memento** — Local-first multi-model AI supervisor (see above)
+- **Memento** — Local-first AI supervisor on my own inference stack (see above)
 - **Ranch Infrastructure** — Custom PCB-based sensing and control for Buffalo Jump Ranch (telemetry, automation, off-grid comms)
 - **Astronomy Systems** — Hardware hacks and software tooling around the ZWO Seestar S50 and a broader astrophotography workflow
 - **LED Systems** — Driver boards, matrix controllers, and firmware for programmable LED projects
@@ -164,7 +166,7 @@ Built on Python, Claude Code CLI, Ollama (DeepSeek-R1), ChromaDB, Twilio, and a 
 ### Founder @ Buffalo Jump Forge
 **2026 - Present**
 
-Founded Buffalo Jump Forge to build AI systems and custom hardware. Shipping Memento (local-first multi-model AI supervisor) alongside a portfolio of PCB + firmware projects spanning ranch infrastructure, astronomy, and LED systems.
+Founded Buffalo Jump Forge to build AI systems and custom hardware. Shipping Memento (local-first AI supervisor on its own inference stack) alongside a portfolio of PCB + firmware projects spanning ranch infrastructure, astronomy, and LED systems.
 
 **Technologies:** Python, Claude / Ollama / Gemini, ChromaDB, MCP, ESP32, C/C++, KiCAD
 
