@@ -20,7 +20,7 @@
 
 ## About Me
 
-Founder of **Buffalo Jump Forge**, an AI + hardware practice based in Three Forks, Montana. After 11 years at Microsoft (most recently Director of Strategy & Planning for Microsoft Learn and Azure Portal) and then a Distinguished Solution Architect at Harper, I've turned my attention to the intersection of two things I love most: applied AI systems and custom electronics — agents, firmware, PCBs, and the glue that ties them together.
+Founder of **Buffalo Jump Forge**, an AI + hardware practice based in Three Forks, Montana. After 12 years at Microsoft (most recently Director of Strategy & Planning for Microsoft Learn and Azure Portal) and then a Distinguished Solution Architect at Harper, I've turned my attention to the intersection of two things I love most: applied AI systems and custom electronics — agents, firmware, PCBs, and the glue that ties them together.
 
 **Expertise:**
 - **AI Systems & Agents** — Multi-model orchestration, LLM tool use, retrieval, local-first AI (Claude, Gemini, Ollama)
@@ -180,11 +180,11 @@ Architected scalable, cloud-native solutions with focus on developer productivit
 ---
 
 ### Director, Strategy & Planning @ Microsoft
-**2022 - 2024 · Azure Experiences & Ecosystems Division**
+**2024 - 2025 · Azure Experiences & Ecosystems Division**
 
 Led strategic planning and execution for Microsoft Learn and Azure Portal. Drove platform strategy, developer experience improvements, and ecosystem growth initiatives.
 
-**Prior Microsoft Roles:** 2014 - 2022 (11 years total at Microsoft)
+**Prior Microsoft Roles:** 2013 - 2024 (12 years total at Microsoft)
 
 **Focus Areas:** Strategic Planning, Developer Platforms, Cloud Architecture, Ecosystem Development
 
@@ -193,7 +193,7 @@ Led strategic planning and execution for Microsoft Learn and Azure Portal. Drove
 ## Key Accomplishments
 
 - **Founder of Buffalo Jump Forge** — building Memento, a local-first multi-model AI supervisor with agentic tool use, semantic memory, and privacy-aware routing
-- **11 years at Microsoft** (2014-2024), culminating in Director of Strategy & Planning for Microsoft Learn and Azure Portal
+- **12 years at Microsoft** (2013-2025), culminating in Director of Strategy & Planning for Microsoft Learn and Azure Portal
 - **Led strategic initiatives** for developer platforms and ecosystem growth in Azure Experiences & Ecosystems Division
 - **Distinguished Solution Architect** at Harper, focusing on scalable cloud-native architectures
 - **Hardware + firmware portfolio** spanning ESP32-based sensor/controller boards, LED drivers, and astronomy instrumentation
